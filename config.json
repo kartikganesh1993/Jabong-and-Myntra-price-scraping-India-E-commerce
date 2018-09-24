@@ -1,0 +1,13 @@
+{
+    "email": {
+        "smtp_url": "smtp.gmail.com:587",
+        "user": "kapoorrenu87@gmail.com",
+        "password": "headbutt99"
+    },
+    "base_url": "https://www.jabong.com/",
+    "xpath_selector": "//*[@id='actual.price']",
+    "items": [
+        ["300035155",500],
+        ["300035178",1700]
+    ]
+}
